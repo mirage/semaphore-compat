@@ -5,8 +5,8 @@
 (license LGPLv2)
 (authors "Xavier Leroy")
 (maintainers "Craig Ferguson <me@craigfe.io>")
-(source (github CraigFe/semaphore-compat))
-(documentation "https://CraigFe.github.io/semaphore-compat")
+(source (github mirage/semaphore-compat))
+(documentation "https://mirage.github.io/semaphore-compat")
 
 (package
  (name semaphore-compat)

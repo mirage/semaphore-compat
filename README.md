@@ -1,5 +1,5 @@
 ## Compatibility `Semaphore` module
-[![Build Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fci.ocamllabs.io%2Fbadge%2FCraigFe%2Fsemaphore-compat%2Fmain&logo=ocaml)](https://ci.ocamllabs.io/github/CraigFe/semaphore-compat)
+[![Build Status](https://img.shields.io/endpoint?url=https%3A%2F%2Fci.ocamllabs.io%2Fbadge%2Fmirage%2Fsemaphore-compat%2Fmain&logo=ocaml)](https://ci.ocamllabs.io/github/mirage/semaphore-compat)
 
 Projects that want to use the `Semaphore` module defined in OCaml 4.12.0 while
 staying compatible with older versions of OCaml should use this library instead.
