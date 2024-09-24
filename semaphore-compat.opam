@@ -14,6 +14,7 @@ doc: "https://mirage.github.io/semaphore-compat"
 bug-reports: "https://github.com/mirage/semaphore-compat/issues"
 depends: [
   "dune" {>= "2.0"}
+  "ocaml"
 ]
 build: [
   ["dune" "subst"] {pinned}
