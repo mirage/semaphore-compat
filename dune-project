@@ -15,5 +15,6 @@
 Projects that want to use the Semaphore module defined in OCaml 4.12.0 while
 staying compatible with older versions of OCaml should use this library
 instead.
-"))
-
+")
+ (depends
+  ocaml))
