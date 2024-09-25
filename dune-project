@@ -2,7 +2,7 @@
 (name semaphore-compat)
 
 (generate_opam_files true)
-(license LGPLv2)
+(license "LGPL-2.1-or-later WITH OCaml-LGPL-linking-exception")
 (authors "Xavier Leroy")
 (maintainers "Craig Ferguson <me@craigfe.io>")
 (source (github mirage/semaphore-compat))

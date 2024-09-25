@@ -8,7 +8,7 @@ instead.
 """
 maintainer: ["Craig Ferguson <me@craigfe.io>"]
 authors: ["Xavier Leroy"]
-license: "LGPLv2"
+license: "LGPL-2.1-or-later WITH OCaml-LGPL-linking-exception"
 homepage: "https://github.com/mirage/semaphore-compat"
 doc: "https://mirage.github.io/semaphore-compat"
 bug-reports: "https://github.com/mirage/semaphore-compat/issues"
